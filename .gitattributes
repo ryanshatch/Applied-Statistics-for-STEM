@@ -1,7 +1,7 @@
-*.html linguist-language=jupyter
-*.ipynb linguist-language=jupyter
-*.pyi linguist-language=jupyter
-*.py linguist-language=jupyter
-*.slo linguist-language=jupyter
-*.so linguist-language=jupyter
-linguist-language=Jupyter
+*.html linguist-vendored=jupyter
+*.ipynb linguist-vendored=jupyter
+*.pyi linguist-vendored=jupyter
+*.py linguist-vendored=jupyter
+*.slo linguist-vendored=jupyter
+*.so linguist-vendored=jupyter
+*. linguist-vendored=Jupyter

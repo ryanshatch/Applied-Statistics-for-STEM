@@ -1,2 +1,7 @@
-*. linguist-language=jupyter
+*.html linguist-language=jupyter
+*.ipynb linguist-language=jupyter
+*.pyi linguist-language=jupyter
+*.py linguist-language=jupyter
+*.slo linguist-language=jupyter
+*.so linguist-language=jupyter
 linguist-language=Jupyter

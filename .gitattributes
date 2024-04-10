@@ -1,6 +1,1 @@
 *.html linguist-vendored=true
-*.ipynb linguist-vendored=true
-*.pyi linguist-vendored=true
-*.py linguist-vendored=true
-*.slo linguist-vendored=true
-*.so linguist-vendored=true

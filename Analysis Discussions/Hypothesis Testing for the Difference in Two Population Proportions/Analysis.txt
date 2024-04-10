@@ -1,0 +1,52 @@
+For my null hypothesis, I found there is no difference in the proportion of ball bearings with diameters lower than 2.20 cm between the current and new ball production lines. For the alternative hypothesis I found that the proportion of ball bearings having a diameter of less than 2.20 cm manufactured from the existing production line is not equal to that of the new production line.
+
+The level of significance of the test will be alpha = 0.05, which shows the probability of making the mistake of rejecting a true null hypothesis.
+
+The provided test statistic is -0.45, and the two-tailed p-value is 0.656. Since I was testing for equality, not a one-tailed test, I took the two-tailed p-value as it is. The p-value is way greater than the level of significance (0.656 > 0.05) thus there is no evidence to lead to reject the null hypothesis.
+
+Overall, based off the test statistic and p-value, I didnt reject the null hypothesis. The evidence showed that the proportions of ball bearings with diameters less than 2.20 cm coming off the new and existing production lines are different from each other was not strong at the 5% significance level. The factory will have a valid argument to say that the proportion of ball bearings meeting diameter specifications would be similar in both processes. diameter of ball bearings is greater than 2.30 cm.
+
+```
+------------------------------------------------------------------------------------
+Diameters data frame of the first sample (showing only the first five observations)
+   diameters
+0       3.19
+1       2.38
+2       2.44
+3       1.56
+4       3.25
+
+Diameters data frame of the second sample (showing only the first five observations)
+   diameters
+0       2.90
+1       1.38
+2       2.20
+3       2.56
+4       2.91
+------------------------------------------------------------------------------------
+test-statistic = -0.45
+two tailed p-value = 0.656
+------------------------------------------------------------------------------------
+```
+
+------------------------------------------------------------------------------------
+Diameters data frame of the first sample (showing only the first five observations)
+   diameters
+0       3.19
+1       2.38
+2       2.44
+3       1.56
+4       3.25
+
+Diameters data frame of the second sample (showing only the first five observations)
+   diameters
+0       2.90
+1       1.38
+2       2.20
+3       2.56
+4       2.91
+------------------------------------------------------------------------------------
+test-statistic = -0.45
+two tailed p-value = 0.656
+------------------------------------------------------------------------------------
+

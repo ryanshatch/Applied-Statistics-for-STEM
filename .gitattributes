@@ -1,7 +1,6 @@
-*.html linguist-vendored=jupyter
-*.ipynb linguist-vendored=jupyter
-*.pyi linguist-vendored=jupyter
-*.py linguist-vendored=jupyter
-*.slo linguist-vendored=jupyter
-*.so linguist-vendored=jupyter
-*. linguist-vendored=Jupyter
+*.html linguist-vendored=true
+*.ipynb linguist-vendored=true
+*.pyi linguist-vendored=true
+*.py linguist-vendored=true
+*.slo linguist-vendored=true
+*.so linguist-vendored=true

@@ -1,0 +1,14 @@
+Both scatterplots show expected trends, which were that heavier and more powerful cars have lower mpg
+This is consistent with the premise that weight and horsepower negatively affect fuel efficiency.
+
+In terms of Coefficients of Correlation, the correlation coefficient between mpg and weight is -0.866318, which indicates a strong negative correlation. This means that generally, as the weight of the car increases, its fuel efficiency decreases.
+
+The correlation between mpg and horsepower is -0.787577, which is also a strong negative correlation. It implies that cars with higher horsepower tend to have lower fuel efficiency.
+
+Both coefficients of correlation suggest a strong relationship between the variables, but they are inverse relationships. These strong correlations confirm the company's expectations and provide a basis for predicting mpg based on these variables.
+
+The regression equation to predict mpg using weight and horsepower as predictor variables:
+mpg = 37.2414 − 3.7842 × wt − 0.0334 × hp
+
+This model accounts for approximately 83% of the variability in mpg (R-squared = 0.830), which suggests that it is a good fit for the data.
+The car rental company can use this model to gauge the fuel efficiency of its fleet based on vehicle weight and horsepower. This insight is helpful for fleet selection and management, reducing fuel expenses, and adjusting rental rates according to the fuel economy of different cars.

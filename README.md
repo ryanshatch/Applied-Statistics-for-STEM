@@ -33,9 +33,12 @@ Hypothesis testing is a statistical method used to make decisions or inferences 
 
 <hr>
 
-## **License**
+## **Resources**
 
-This project is licensed under the [MIT License](LICENSE)
+#### https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html 
+#### https://matplotlib.org/stable/users/index.html 
+#### https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.boxplot.html 
+#### https://docs.scipy.org/doc/scipy/tutorial/stats.html
 
 ## **Contact**
 

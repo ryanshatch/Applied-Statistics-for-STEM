@@ -1,0 +1,13 @@
+1. Null Hypothesis (H0): The mean 10-year returns of ETFs in the financial, energy, and technology sectors are equal. 
+This is expressed as: μ financial = μ energy = μ technology
+
+2. Alternative Hypothesis (H₁): At least one of the sectors means for the 10-year returns of ETFs is different from the others. 
+This can be expressed as: μ financial ≠ μ energy or μ energy ≠ μ technology or μ financial ≠ μ technology
+
+•	The level of significance for this test is set at α = 0.05.
+•	Test Statistic: 55.07
+•	P-value: 0.0
+
+In this case, since the P-value is 0.0, which is less than the significance level of 0.05, I decided to reject the null hypothesis. This showed a statistically significant variation in the average 10-year returns between at least one of the industry specific ETF sectors and the others.
+A side-by-side boxplot of the 10 year returns from ETFs across the three sectors can effectively illustrate the differences noted in the ANOVA analysis. Since the boxplots were able to reveal non overlapping interquartile ranges or significantly distinct medians, it strongly visualizes the ANOVA's finding that returns vary across sectors. These visual representations are very crucial to grasp the variability and average trends in returns among different sectors, thus helping me better understand the ANOVA results.
+This analysis clearly shows that there are notable differences in ETF performance across various sectors over the analyzed period, as proven by both the statistical tests and the visual insights taken away from the data in the boxplots.
